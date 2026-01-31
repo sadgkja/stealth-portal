@@ -1,1 +1,16 @@
+{
+  "Top Hits": [
+    { "name": "Slope", "url": "https://slope.game" },
+    { "name": "Subway Surfers", "url": "https://deltamath111373269.netlify.app/games/subwaysurfers/" },
+    { "name": "1v1.LOL", "url": "https://1v1.lol" }
+  ],
+  "Classics": [
+    { "name": "Retro Bowl", "url": "https://game312.github.io" },
+    { "name": "2048", "url": "https://2048game.com" }
+  ],
+  "IO Games": [
+    { "name": "Paper.io 2", "url": "https://paper-io.com" },
+    { "name": "Snake.io", "url": "https://snake.io" }
+  ]
+}
 
